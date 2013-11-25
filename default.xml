@@ -9,9 +9,9 @@
            sync-c="true"
            sync-j="4" />
 
-  <!--project path="prebuilts" name="qubir/PhoenixA20_android_prebuilts_sourcecode" remote="phoenix_android" revision="master" /-->
+  <project path="prebuilts" name="qubir/PhoenixA20_android_prebuilts_sourcecode" remote="phoenix_android" revision="master" />
   <project path="packages" name="qubir/PhoenixA20_android_packages_sourcecode" remote="phoenix_android" revision="master" />
-  <!--project path="tools" name="qubir/PhoenixA20_android_tools_sourcecode" remote="phoenix_android" revision="master" />
+  <project path="tools" name="qubir/PhoenixA20_android_tools_sourcecode" remote="phoenix_android" revision="master" />
   <project path="system" name="qubir/PhoenixA20_android_system_sourcecode" remote="phoenix_android" revision="master" />
   <project path="sdk" name="qubir/PhoenixA20_android_sdk_sourcecode" remote="phoenix_android" revision="master" />
   <project path="pdk" name="qubir/PhoenixA20_android_pdk_sourcecode" remote="phoenix_android" revision="master" />
@@ -30,7 +30,7 @@
   <project path="external" name="qubir/PhoenixA20_android_external_sourcecode" remote="phoenix_android" revision="master" />
   <project path="abi" name="qubir/PhoenixA20_android_abi_sourcecode" remote="phoenix_android" revision="master" />
   <project path="bionic" name="qubir/PhoenixA20_android_bionic_sourcecode" remote="phoenix_android" revision="master" />
-  <project path="bootable" name="qubir/PhoenixA20_android_bootable_sourcecode" remote="phoenix_android" revision="master" /-->
+  <project path="bootable" name="qubir/PhoenixA20_android_bootable_sourcecode" remote="phoenix_android" revision="master" />
 
 
 </manifest>
