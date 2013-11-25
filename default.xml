@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote  name="phoenix_android"
+           fetch="https://github.com"/>
+
+  <default revision="master"
+           remote="phoenix_android"
+           sync-c="true"
+           sync-j="4" />
+
+  <project path="prebuilts" name="qubir/PhoenixA20_android_prebuilts_sourcecode" remote="phoenix_android" revision="master" />
+  <project path="packages" name="qubir/PhoenixA20_android_packages_sourcecode" remote="phoenix_android" revision="master" />
+  <project path="tools" name="qubir/PhoenixA20_android_tools_sourcecode" remote="phoenix_android" revision="master" />
+  <project path="system" name="qubir/PhoenixA20_android_system_sourcecode" remote="phoenix_android" revision="master" />
+  <project path="sdk" name="qubir/PhoenixA20_android_sdk_sourcecode" remote="phoenix_android" revision="master" />
+  <project path="pdk" name="qubir/PhoenixA20_android_pdk_sourcecode" remote="phoenix_android" revision="master" />
+  <project path="ndk" name="qubir/PhoenixA20_android_ndk_sourcecode" remote="phoenix_android" revision="master" />
+  <project path="libnativehelper" name="qubir/PhoenixA20_android_libnativehelper_sourcecode" remote="phoenix_android" revision="master" />
+  <project path="libcore" name="qubir/PhoenixA20_android_libcore_sourcecode" remote="phoenix_android" revision="master" />
+  <project path="hardware" name="qubir/PhoenixA20_android_hardware_sourcecode" remote="phoenix_android" revision="master" />
+  <project path="gdk" name="qubir/PhoenixA20_android_gdk_sourcecode" remote="phoenix_android" revision="master" />
+  <project path="development" name="qubir/PhoenixA20_android_development_sourcecode" remote="phoenix_android" revision="master" />
+  <project path="docs" name="qubir/PhoenixA20_android_docs_sourcecode" remote="phoenix_android" revision="master" />
+  <project path="device" name="qubir/PhoenixA20_android_device_sourcecdoe" remote="phoenix_android" revision="master" />
+  <project path="cts" name="qubir/PhoenixA20_android_cts_sourcecode" remote="phoenix_android" revision="master" />
+
+  <project path="dalvik" name="qubir/PhoenixA20_android_dalvik_sourcecode" remote="phoenix_android" revision="master" />
+  <project path="frameworks" name="qubir/PhoenixA20_android_frameworks_sourcecode" remote="phoenix_android" revision="master" />
+  <project path="external" name="qubir/PhoenixA20_android_external_sourcecode" remote="phoenix_android" revision="master" />
+  <project path="abi" name="qubir/PhoenixA20_android_abi_sourcecode" remote="phoenix_android" revision="master" />
+  <project path="bionic" name="qubir/PhoenixA20_android_bionic_sourcecode" remote="phoenix_android" revision="master" />
+  <project path="bootable" name="qubir/PhoenixA20_android_bootable_sourcecode" remote="phoenix_android" revision="master" />
+
+
+</manifest>
+
