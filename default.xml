@@ -29,6 +29,7 @@
   <project path="frameworks" name="qubir/PhoenixA20_android_frameworks_sourcecode" remote="phoenix_android" revision="master" />
   <project path="external" name="qubir/PhoenixA20_android_external_sourcecode" remote="phoenix_android" revision="master" />
   <project path="abi" name="qubir/PhoenixA20_android_abi_sourcecode" remote="phoenix_android" revision="master" />
+  <project path="build" name="qubir/PhoenixA20_android_build_sourcecode" remote="phoenix_android" revision="master" />
   <project path="bionic" name="qubir/PhoenixA20_android_bionic_sourcecode" remote="phoenix_android" revision="master" />
   <project path="bootable" name="qubir/PhoenixA20_android_bootable_sourcecode" remote="phoenix_android" revision="master" />
 
